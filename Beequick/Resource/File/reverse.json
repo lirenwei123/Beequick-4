@@ -1,0 +1,5313 @@
+{
+  "code": 0,
+  "msg": "success",
+  "reqid": "df89aeacacf4c4a97fe0fee2d1f56d0d",
+  "data": {
+    "act_info": [
+      {
+        "act_rows": [
+          {
+            "activity": {
+              "id": "21717",
+              "name": "新鲜预订-9月大促",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016091414231418.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016091414231418.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "10",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyuding9yuedacu",
+                "trackid": "focus1|21717"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "focus1|21717"
+            },
+            "sort": "1"
+          },
+          {
+            "activity": {
+              "id": "21731",
+              "name": "新鲜预订-零食满60减15",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092315103252.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092315103252.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "10",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyudinglingshiman100jian30",
+                "trackid": "focus1|21731"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "focus1|21731"
+            },
+            "sort": "1"
+          }
+        ],
+        "sort": 1,
+        "type": "focus"
+      },
+      {
+        "act_rows": [
+          {
+            "activity": {
+              "id": "21737",
+              "name": "今日必败",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/201606231950329.png@90Q.png",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/201606231950329.png@90Q.png",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyudingjinribibai",
+                "trackid": "icon1|21737"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "icon1|21737"
+            },
+            "sort": "0"
+          },
+          {
+            "activity": {
+              "id": "21306",
+              "name": "整箱购",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052515023117.png@90Q.png",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052515023117.png@90Q.png",
+              "jptype": "1",
+              "sort": "2",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridaniunaizhengxianggou",
+                "trackid": "icon1|21306"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "icon1|21306"
+            },
+            "sort": "2"
+          },
+          {
+            "activity": {
+              "id": "21730",
+              "name": "鲜货直供",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016090620075927.png@90Q.png",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016090620075927.png@90Q.png",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "disanfangmanaiputao",
+                "trackid": "icon1|21730"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "icon1|21730"
+            },
+            "sort": "3"
+          },
+          {
+            "activity": {
+              "id": "20753",
+              "name": "分类",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016082317011234.png@90Q.png",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016082317011234.png@90Q.png",
+              "jptype": "1",
+              "sort": "7",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridaxinbanfuzhi",
+                "trackid": "icon1|20753"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "icon1|20753"
+            },
+            "sort": "4"
+          }
+        ],
+        "sort": 2,
+        "type": "icon"
+      },
+      {
+        "act_rows": [
+          {
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016070117351813.png@90Q.png",
+            "more_activity": {
+              "id": "20533",
+              "name": "新鲜预订--进店必败",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052010245457.png@90Q.png",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052010245457.png@90Q.png",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridajindianbibai",
+                "trackid": "headline1|20533"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "headline1|20533"
+            },
+            "target_type": "3",
+            "activ_detail": {
+              "name": "进店必败",
+              "activity_img_v34": "\/upload\/activity\/2016070117351813.png",
+              "display_number": "6",
+              "goods": [
+                {
+                  "id": 95998,
+                  "name": "[次日达]新疆库尔勒香梨 4斤",
+                  "long_name": "[次日达]新疆库尔勒香梨 4斤",
+                  "store_nums": 200,
+                  "specifics": "4斤",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 10,
+                  "safe_unit": 1,
+                  "market_price": 49.9,
+                  "pcid": 55,
+                  "partner_price": 29.9,
+                  "ismix": 0,
+                  "pre_img": "0000095998_80740.jpg",
+                  "pre_imgs": "0000095998_45420.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000012,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 95998,
+                  "dealer_id": 10114,
+                  "number": 127,
+                  "price": 29.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/009\/5998\/0000095998_80740.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 64865,
+                  "name": "[次日达]进口牛油果560.0-720g 4粒\/盒",
+                  "long_name": "[次日达]进口牛油果560.0-720g 4粒\/盒",
+                  "store_nums": 200,
+                  "specifics": "560-720g\/4粒",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 58,
+                  "pcid": 55,
+                  "partner_price": 29.9,
+                  "ismix": 0,
+                  "pre_img": "0000064865_60360.jpg",
+                  "pre_imgs": "0000064865_92490.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "墨西哥,牛油果,精选,精品,进口,水果,果盒,果蔬,鲜食",
+                  "product_num": 100000041,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103534": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103534": "进口水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103534,
+                  "product_id": 64865,
+                  "dealer_id": 10114,
+                  "number": 30,
+                  "price": 29.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/006\/4865\/0000064865_60360.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 63290,
+                  "name": "[次日达]德青源生态鲜鸡蛋6枚装 318g",
+                  "long_name": "[次日达]德青源生态鲜鸡蛋6枚装 318g",
+                  "store_nums": 200,
+                  "specifics": "318g\/6枚",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 1549,
+                  "brand_name": "德青源",
+                  "hot_degree": 0,
+                  "safe_day": 45,
+                  "safe_unit": 1,
+                  "market_price": 6.9,
+                  "pcid": 55,
+                  "partner_price": 6.9,
+                  "ismix": 0,
+                  "pre_img": "0000063290_64220.jpg",
+                  "pre_imgs": "0000063290_92250.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "鸡蛋蔬菜,德清源,鸡蛋1元抢,德青源,生态鲜鸡蛋,6枚装,鲜蛋,蛋,鸡蛋",
+                  "product_num": 100000062,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 63290,
+                  "dealer_id": 10114,
+                  "number": 2,
+                  "price": 6.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/006\/3290\/0000063290_64220.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113240,
+                  "name": "[次日达]绿鸟鸡小胸500g\/袋",
+                  "long_name": "[次日达]绿鸟鸡小胸500g\/袋",
+                  "store_nums": 200,
+                  "specifics": "500g\/袋",
+                  "attribute": "",
+                  "sort": "3",
+                  "top_sort": 9999,
+                  "brand_id": 2625,
+                  "brand_name": "草原兴发",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 18,
+                  "pcid": 55,
+                  "partner_price": 15.8,
+                  "ismix": 0,
+                  "pre_img": "20160819174450_875951.jpg",
+                  "pre_imgs": "20160819174448_890800.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]草原兴发绿鸟鸡小胸",
+                  "product_num": 100000027,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113240,
+                  "dealer_id": 10114,
+                  "number": 67,
+                  "price": 15.8,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1917\/20160819174450_875951.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 112812,
+                  "name": "[次日达]伊赛清真牛腩块 400g",
+                  "long_name": "[次日达]伊赛清真牛腩块 400g",
+                  "store_nums": 200,
+                  "specifics": "400g",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 2408,
+                  "brand_name": "伊赛",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 29,
+                  "pcid": 55,
+                  "partner_price": 24.8,
+                  "ismix": 0,
+                  "pre_img": "20160808181505_529331.jpg",
+                  "pre_imgs": "20160808181511_217775.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 112812,
+                  "dealer_id": 10114,
+                  "number": 203,
+                  "price": 24.8,
+                  "had_pm": 1,
+                  "pm_desc": "满赠肉饼",
+                  "pm_info": "买即赠牛肉饼一份，赠完为止。赠品将在结算页面显示，如未显示表示已赠完。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满赠肉饼"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0818\/20160808181505_529331.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 112734,
+                  "name": "[次日达]零度果坊奇异果汁300ml",
+                  "long_name": "[次日达]零度果坊奇异果汁300ml",
+                  "store_nums": 200,
+                  "specifics": "300ml",
+                  "attribute": "",
+                  "sort": "5",
+                  "top_sort": 9999,
+                  "brand_id": 2099,
+                  "brand_name": "零度果坊",
+                  "hot_degree": 0,
+                  "safe_day": 28,
+                  "safe_unit": 1,
+                  "market_price": 18.9,
+                  "pcid": 55,
+                  "partner_price": 18.9,
+                  "ismix": 0,
+                  "pre_img": "20160801121946_578176.jpg",
+                  "pre_imgs": "20160801121939_068311.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000028,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103551": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103551": "果汁饮料"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103551,
+                  "product_id": 112734,
+                  "dealer_id": 10114,
+                  "number": 8,
+                  "price": 18.9,
+                  "had_pm": 1,
+                  "pm_desc": "买一赠一",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "买一赠一"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0112\/20160801121946_578176.jpg@200w_200h_90Q"
+                },
+                {
+                  "dtype": 1,
+                  "target_type": 11,
+                  "name": "进店必败",
+                  "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052010245457.png@90Q.png"
+                }
+              ],
+              "target_type": "3",
+              "more_name": "进店必败",
+              "more_img": "\/upload\/activity\/2016052010245457.png"
+            },
+            "sort": "1"
+          },
+          {
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016070117373193.png@90Q.png",
+            "more_activity": {
+              "id": "20535",
+              "name": "新鲜预订--新品尝鲜",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052010302354.png@90Q.png",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052010302354.png@90Q.png",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridaxinpinchangxian",
+                "trackid": "headline1|20535"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "headline1|20535"
+            },
+            "target_type": "3",
+            "activ_detail": {
+              "name": "新品尝鲜",
+              "activity_img_v34": "\/upload\/activity\/2016070117373193.png",
+              "display_number": "6",
+              "goods": [
+                {
+                  "id": 114596,
+                  "name": "[次日达]张小渔有机盐田虾500g\/盒",
+                  "long_name": "[次日达]张小渔有机盐田虾500g\/盒",
+                  "store_nums": 200,
+                  "specifics": "500g\/盒",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 1824,
+                  "brand_name": "张小渔",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 99,
+                  "pcid": 55,
+                  "partner_price": 89,
+                  "ismix": 0,
+                  "pre_img": "20160923180812_455433.jpg",
+                  "pre_imgs": "20160923180808_796340.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]张小渔有机盐田虾26\/30",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103568": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103568": "水产禽肉"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103568,
+                  "product_id": 114596,
+                  "dealer_id": 10114,
+                  "number": 28,
+                  "price": 89,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/2318\/20160923180812_455433.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 110716,
+                  "name": "[次日达]荷裕三文鱼刺身100g",
+                  "long_name": "[次日达]荷裕三文鱼刺身100g",
+                  "store_nums": 200,
+                  "specifics": "100g\/袋",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 2475,
+                  "brand_name": "荷裕",
+                  "hot_degree": 0,
+                  "safe_day": 2,
+                  "safe_unit": 3,
+                  "market_price": 32,
+                  "pcid": 55,
+                  "partner_price": 26.8,
+                  "ismix": 0,
+                  "pre_img": "20160707190656_862930.jpg",
+                  "pre_imgs": "20160707190700_816236.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "三文鱼刺身",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103568": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103568": "水产禽肉"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103568,
+                  "product_id": 110716,
+                  "dealer_id": 10114,
+                  "number": 57,
+                  "price": 26.8,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/607\/0719\/20160707190656_862930.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 66228,
+                  "name": "[次日达]沾化冬枣 1kg\/盒",
+                  "long_name": "[次日达]沾化冬枣 1kg\/盒",
+                  "store_nums": 200,
+                  "specifics": "1kg\/盒",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 7,
+                  "safe_unit": 1,
+                  "market_price": 40,
+                  "pcid": 55,
+                  "partner_price": 19.9,
+                  "ismix": 0,
+                  "pre_img": "0000066228_54170.jpg",
+                  "pre_imgs": "0000066228_02930.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000007,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 66228,
+                  "dealer_id": 10114,
+                  "number": 6,
+                  "price": 19.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/006\/6228\/0000066228_54170.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114737,
+                  "name": "[次日达]草原兴发绿鸟鸡草原童子鸡600g\/袋",
+                  "long_name": "[次日达]草原兴发绿鸟鸡草原童子鸡600g\/袋",
+                  "store_nums": 200,
+                  "specifics": "600g\/袋",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 2625,
+                  "brand_name": "草原兴发",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 37.8,
+                  "pcid": 55,
+                  "partner_price": 37.8,
+                  "ismix": 0,
+                  "pre_img": "20160922115409_341943.jpg",
+                  "pre_imgs": "20160922115407_264273.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]草原兴发绿鸟鸡草原童子鸡",
+                  "product_num": 100000004,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103568": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103568": "水产禽肉"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103568,
+                  "product_id": 114737,
+                  "dealer_id": 10114,
+                  "number": 170,
+                  "price": 37.8,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/2211\/20160922115409_341943.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 64937,
+                  "name": "[次日达]禧美黑鳕鱼200g",
+                  "long_name": "[次日达]禧美黑鳕鱼200g",
+                  "store_nums": 200,
+                  "specifics": "200g",
+                  "attribute": "",
+                  "sort": "3",
+                  "top_sort": 9999,
+                  "brand_id": 1774,
+                  "brand_name": "禧美",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 128,
+                  "pcid": 55,
+                  "partner_price": 88,
+                  "ismix": 0,
+                  "pre_img": "20160918161130_330344.jpg",
+                  "pre_imgs": "20160918161135_665160.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000003,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 64937,
+                  "dealer_id": 10114,
+                  "number": 20,
+                  "price": 88,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/1816\/20160918161130_330344.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113740,
+                  "name": "[次日达]眉州东坡麻辣香肠250g\/袋",
+                  "long_name": "[次日达]眉州东坡麻辣香肠250g\/袋",
+                  "store_nums": 200,
+                  "specifics": "250g\/袋",
+                  "attribute": "",
+                  "sort": "5",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 90,
+                  "safe_unit": 1,
+                  "market_price": 39.9,
+                  "pcid": 55,
+                  "partner_price": 39.9,
+                  "ismix": 0,
+                  "pre_img": "20160902173440_684873.jpg",
+                  "pre_imgs": "20160902173444_115608.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113740,
+                  "dealer_id": 10114,
+                  "number": 14,
+                  "price": 39.9,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173440_684873.jpg@200w_200h_90Q"
+                },
+                {
+                  "dtype": 1,
+                  "target_type": 11,
+                  "name": "新品尝鲜",
+                  "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016052010302354.png@90Q.png"
+                }
+              ],
+              "target_type": "3",
+              "more_name": "新品尝鲜",
+              "more_img": "\/upload\/activity\/2016052010302354.png"
+            },
+            "sort": "2"
+          },
+          {
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092314415386.jpg@90Q.jpg",
+            "more_activity": {
+              "id": "21453",
+              "name": "限量抢购",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/201609231441535.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/201609231441535.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyudingxianliangqianggou",
+                "trackid": "headline1|21453"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "headline1|21453"
+            },
+            "target_type": "3",
+            "activ_detail": {
+              "name": "限量抢购",
+              "activity_img_v34": "\/upload\/activity\/2016092314415386.jpg",
+              "display_number": "6",
+              "goods": [
+                {
+                  "id": 66226,
+                  "name": "[次日达]浓情水果礼盒1730.0g\/盒",
+                  "long_name": "[次日达]浓情水果礼盒1730.0g\/盒",
+                  "store_nums": 200,
+                  "specifics": "1730g\/盒",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 7,
+                  "safe_unit": 1,
+                  "market_price": 105,
+                  "pcid": 55,
+                  "partner_price": 59,
+                  "ismix": 0,
+                  "pre_img": "0000066226_91820.jpg",
+                  "pre_imgs": "0000066226_83160.jpg,",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "水果礼盒，中秋礼盒",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 66226,
+                  "dealer_id": 10114,
+                  "number": 2,
+                  "price": 59,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/006\/6226\/0000066226_91820.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 96128,
+                  "name": "[次日达]兴隆沟绿色玉米糁 500g",
+                  "long_name": "[次日达]兴隆沟绿色玉米糁 500g",
+                  "store_nums": 200,
+                  "specifics": "500g",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 1744,
+                  "brand_name": "兴隆沟",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 9.8,
+                  "pcid": 55,
+                  "partner_price": 9.8,
+                  "ismix": 0,
+                  "pre_img": "0000096128_41350.jpg",
+                  "pre_imgs": "0000096128_64410.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103570": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103570": "杂粮米面油"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103570,
+                  "product_id": 96128,
+                  "dealer_id": 10114,
+                  "number": 22,
+                  "price": 6.8,
+                  "had_pm": 1,
+                  "pm_desc": "限时特价",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "限时特价"
+                  ],
+                  "promotion": "pm_limit%3D%7B%22965%22%3A%7B%22full%22%3A%220%22%2C%22kind_num_per_order%22%3A0%2C%22goods_num_per_kind%22%3A0%2C%22goods_num_per_order%22%3A0%2C%22goods_num_per_day%22%3A0%7D%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/009\/6128\/0000096128_41350.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 99010,
+                  "name": "[次日达]升林竹荪35g35g\/袋",
+                  "long_name": "[次日达]升林竹荪35g35g\/袋",
+                  "store_nums": 200,
+                  "specifics": "35g",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 1838,
+                  "brand_name": "富昌",
+                  "hot_degree": 0,
+                  "safe_day": 1,
+                  "safe_unit": 3,
+                  "market_price": 28.8,
+                  "pcid": 55,
+                  "partner_price": 28.8,
+                  "ismix": 0,
+                  "pre_img": "20160108183634_750616.jpg",
+                  "pre_imgs": "20160108183638_729782.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000001,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103573": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103573": "南北干货"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103573,
+                  "product_id": 99010,
+                  "dealer_id": 10114,
+                  "number": 18,
+                  "price": 28.8,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/0818\/20160108183634_750616.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 96843,
+                  "name": "[次日达]海天老抽王1.9L",
+                  "long_name": "[次日达]海天老抽王1.9L",
+                  "store_nums": 200,
+                  "specifics": "1.9L",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 232,
+                  "brand_name": "海天",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 19.8,
+                  "pcid": 55,
+                  "partner_price": 18.8,
+                  "ismix": 0,
+                  "pre_img": "20160811185915_276069.jpg",
+                  "pre_imgs": "20160811185929_717911.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103571": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103571": "厨房调味"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103571,
+                  "product_id": 96843,
+                  "dealer_id": 10114,
+                  "number": 79,
+                  "price": 18.8,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1118\/20160811185915_276069.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 66227,
+                  "name": "[次日达]蜜意水果礼盒2.5kg\/盒",
+                  "long_name": "[次日达]蜜意水果礼盒2.5kg\/盒",
+                  "store_nums": 200,
+                  "specifics": "2090g\/盒",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 7,
+                  "safe_unit": 1,
+                  "market_price": 129,
+                  "pcid": 55,
+                  "partner_price": 79,
+                  "ismix": 0,
+                  "pre_img": "0000066227_93090.jpg",
+                  "pre_imgs": "0000066227_69050.jpg,",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "水果礼盒，中秋礼盒",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 66227,
+                  "dealer_id": 10114,
+                  "number": 0,
+                  "price": 79,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/006\/6227\/0000066227_93090.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113565,
+                  "name": "[次日达]产地直供怀来白马奶葡萄 实惠装5斤\/盒",
+                  "long_name": "[次日达]产地直供怀来白马奶葡萄 实惠装5斤\/盒",
+                  "store_nums": 200,
+                  "specifics": "5斤\/盒",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 7,
+                  "safe_unit": 1,
+                  "market_price": 69,
+                  "pcid": 55,
+                  "partner_price": 49.9,
+                  "ismix": 0,
+                  "pre_img": "20160912114859_262100.jpg",
+                  "pre_imgs": "20160912114904_320598.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 113565,
+                  "dealer_id": 10114,
+                  "number": 0,
+                  "price": 49.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/1211\/20160912114859_262100.jpg@200w_200h_90Q"
+                },
+                {
+                  "dtype": 1,
+                  "target_type": 11,
+                  "name": "限量抢购"
+                }
+              ],
+              "target_type": "3",
+              "more_name": "限量抢购"
+            },
+            "sort": "3"
+          }
+        ],
+        "sort": 3,
+        "type": "activ"
+      },
+      {
+        "act_rows": [
+          {
+            "more_activity": {
+              "id": "20523",
+              "name": "新鲜预订--精选水果",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081016474388.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081016474388.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridajingxuanshuiguogengduo",
+                "trackid": "brand1|20523"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20523"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 113589,
+              "name": "[次日达]泰国金枕头冻榴莲肉400g",
+              "long_name": "[次日达]泰国金枕头冻榴莲肉400g",
+              "store_nums": 200,
+              "specifics": "400g",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 2626,
+              "brand_name": "问鼎食神",
+              "hot_degree": 0,
+              "safe_day": 730,
+              "safe_unit": 1,
+              "market_price": 59.9,
+              "pcid": 55,
+              "partner_price": 59.9,
+              "ismix": 0,
+              "pre_img": "20160825190340_752416.jpg",
+              "pre_imgs": "20160825190346_279314.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "",
+              "product_num": 100000005,
+              "org_source_value": 4,
+              "safe_unit_desc": "天",
+              "c_layer": 2,
+              "p_cids": {
+                "103534": {
+                  "103532": "优选水果"
+                }
+              },
+              "cids": {
+                "103534": "进口水果"
+              },
+              "category_id": 103532,
+              "cid": 103532,
+              "child_cid": 103534,
+              "product_id": 113589,
+              "dealer_id": 10114,
+              "number": 63,
+              "price": 59.9,
+              "had_pm": 0,
+              "pm_desc": "",
+              "pm_info": "",
+              "is_xf": 1,
+              "pm_tags": [
+                
+              ],
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/2519\/20160825190340_752416.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_113589_1473842395.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "精选水果",
+              "category_color": "E85D17",
+              "target_type": "3",
+              "banner_activity_id": "21323",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 94760,
+                  "name": "[次日达]泰国金枕鲜榴莲1.8-2.4kg\/粒",
+                  "long_name": "[次日达]泰国金枕鲜榴莲1.8-2.4kg\/粒",
+                  "store_nums": 200,
+                  "specifics": "1.8-2.4kg",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 138,
+                  "pcid": 55,
+                  "partner_price": 108,
+                  "ismix": 0,
+                  "pre_img": "20160422115008_118038.jpg",
+                  "pre_imgs": "20160422115002_322089.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103534": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103534": "进口水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103534,
+                  "product_id": 94760,
+                  "dealer_id": 10114,
+                  "number": 1,
+                  "price": 108,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/2211\/20160422115008_118038.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114169,
+                  "name": "[次日达]四川蒲江红心猕猴桃12粒 800-850g\/盒",
+                  "long_name": "[次日达]四川蒲江红心猕猴桃12粒 800-850g\/盒",
+                  "store_nums": 200,
+                  "specifics": "12粒 800-850g\/盒",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 10,
+                  "safe_unit": 1,
+                  "market_price": 68,
+                  "pcid": 55,
+                  "partner_price": 39.9,
+                  "ismix": 0,
+                  "pre_img": "20160908172040_586425.jpg",
+                  "pre_imgs": "20160908172051_519395.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "爱鲜蜂·红心猕猴桃",
+                  "product_num": 100000019,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 114169,
+                  "dealer_id": 10114,
+                  "number": 14,
+                  "price": 39.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0817\/20160908172040_586425.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 98961,
+                  "name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+                  "long_name": "[次日达]佳沛新西兰金奇异果 16粒礼盒装",
+                  "store_nums": 200,
+                  "specifics": "16粒\/盒",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 118,
+                  "pcid": 55,
+                  "partner_price": 108,
+                  "ismix": 0,
+                  "pre_img": "20160121090716_775172.jpg",
+                  "pre_imgs": "20160121090711_220537.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000001,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103534": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103534": "进口水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103534,
+                  "product_id": 98961,
+                  "dealer_id": 10114,
+                  "number": 5,
+                  "price": 108,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/2109\/20160121090716_775172.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 13607,
+                  "name": "[次日达]泰国进口椰青700-800g\/粒",
+                  "long_name": "[次日达]泰国进口椰青700-800g\/粒",
+                  "store_nums": 200,
+                  "specifics": "700-800g",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 14.9,
+                  "pcid": 55,
+                  "partner_price": 14.9,
+                  "ismix": 0,
+                  "pre_img": "0000013607_22280.jpg",
+                  "pre_imgs": "0000013607_34270.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "精选,精品,次日达,泰国,进口,椰青,进口椰青,椰子,水果,鲜食,优选水果",
+                  "product_num": 100000009,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103534": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103534": "进口水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103534,
+                  "product_id": 13607,
+                  "dealer_id": 10114,
+                  "number": 23,
+                  "price": 14.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/001\/3607\/0000013607_22280.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 108132,
+                  "name": "[次日达]佳农进口超甜蕉 1.5kg\/袋",
+                  "long_name": "[次日达]佳农进口超甜蕉 1.5kg\/袋",
+                  "store_nums": 200,
+                  "specifics": "1.5kg",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 26,
+                  "pcid": 55,
+                  "partner_price": 24.8,
+                  "ismix": 0,
+                  "pre_img": "20160511161304_522805.jpg",
+                  "pre_imgs": "20160511161308_607292.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103534": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103534": "进口水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103534,
+                  "product_id": 108132,
+                  "dealer_id": 10114,
+                  "number": 0,
+                  "price": 24.8,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/605\/1116\/20160511161304_522805.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113565,
+                  "name": "[次日达]产地直供怀来白马奶葡萄 实惠装5斤\/盒",
+                  "long_name": "[次日达]产地直供怀来白马奶葡萄 实惠装5斤\/盒",
+                  "store_nums": 200,
+                  "specifics": "5斤\/盒",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 7,
+                  "safe_unit": 1,
+                  "market_price": 69,
+                  "pcid": 55,
+                  "partner_price": 49.9,
+                  "ismix": 0,
+                  "pre_img": "20160912114859_262100.jpg",
+                  "pre_imgs": "20160912114904_320598.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103533": {
+                      "103532": "优选水果"
+                    }
+                  },
+                  "cids": {
+                    "103533": "国产水果"
+                  },
+                  "category_id": 103532,
+                  "cid": 103532,
+                  "child_cid": 103533,
+                  "product_id": 113565,
+                  "dealer_id": 10114,
+                  "number": 0,
+                  "price": 49.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/1211\/20160912114859_262100.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "1"
+          },
+          {
+            "more_activity": {
+              "id": "20525",
+              "name": "新鲜预订--水产海鲜",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016091416454971.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016091416454971.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridashuichanhaixiangengduo",
+                "trackid": "brand1|20525"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20525"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 113588,
+              "name": "[次日达]越南进口黑虎凤尾虾仁400g",
+              "long_name": "[次日达]越南进口黑虎凤尾虾仁400g",
+              "store_nums": 200,
+              "specifics": "400g",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 2626,
+              "brand_name": "问鼎食神",
+              "hot_degree": 0,
+              "safe_day": 730,
+              "safe_unit": 1,
+              "market_price": 68,
+              "pcid": 55,
+              "partner_price": 58,
+              "ismix": 0,
+              "pre_img": "20160825190636_355050.jpg",
+              "pre_imgs": "20160825190640_451005.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "",
+              "pre_state": 0,
+              "keywords": "",
+              "product_num": 100000002,
+              "org_source_value": 4,
+              "safe_unit_desc": "天",
+              "c_layer": 2,
+              "p_cids": {
+                "103567": {
+                  "103565": "肉蛋时蔬"
+                }
+              },
+              "cids": {
+                "103567": "肉蛋水产"
+              },
+              "category_id": 103565,
+              "cid": 103565,
+              "child_cid": 103567,
+              "product_id": 113588,
+              "dealer_id": 10114,
+              "number": 19,
+              "price": 58,
+              "had_pm": 0,
+              "pm_desc": "",
+              "pm_info": "",
+              "is_xf": 1,
+              "pm_tags": [
+                
+              ],
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/2519\/20160825190636_355050.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_113588_1473842749.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "水产海鲜",
+              "category_color": "4179E8",
+              "target_type": "3",
+              "banner_activity_id": "21635",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 106765,
+                  "name": "[次日达]阿根廷红虾 2kg",
+                  "long_name": "[次日达]阿根廷红虾 2kg",
+                  "store_nums": 200,
+                  "specifics": "2kg(10-20只\/kg）",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 1774,
+                  "brand_name": "禧美",
+                  "hot_degree": 0,
+                  "safe_day": 720,
+                  "safe_unit": 1,
+                  "market_price": 188,
+                  "pcid": 55,
+                  "partner_price": 149,
+                  "ismix": 0,
+                  "pre_img": "20160914184627_516417.jpg",
+                  "pre_imgs": "20160914184633_526853.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000006,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 106765,
+                  "dealer_id": 10114,
+                  "number": 29,
+                  "price": 149,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/1418\/20160914184627_516417.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113248,
+                  "name": "[次日达]泰国白虾 1.8kg（60-70只\/kg）",
+                  "long_name": "[次日达]泰国白虾 1.8kg（60-70只\/kg）",
+                  "store_nums": 200,
+                  "specifics": "1.8kg\/盒",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 2626,
+                  "brand_name": "问鼎食神",
+                  "hot_degree": 0,
+                  "safe_day": 2,
+                  "safe_unit": 3,
+                  "market_price": 168,
+                  "pcid": 55,
+                  "partner_price": 118,
+                  "ismix": 0,
+                  "pre_img": "20160816185346_091495.jpg",
+                  "pre_imgs": "20160816185358_361789.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]泰国白虾60\/70",
+                  "product_num": 100000012,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113248,
+                  "dealer_id": 10114,
+                  "number": 88,
+                  "price": 118,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1618\/20160816185346_091495.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 97308,
+                  "name": "[次日达]厄瓜多尔白虾 1.8kg（wonder）1800.0g\/袋 （50-60只\/kg）",
+                  "long_name": "[次日达]厄瓜多尔白虾 1.8kg（wonder）1800.0g\/袋 （50-60只\/kg）",
+                  "store_nums": 200,
+                  "specifics": "1800g（50-60只\/kg）",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 1777,
+                  "brand_name": "wonder",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 158,
+                  "pcid": 55,
+                  "partner_price": 138,
+                  "ismix": 0,
+                  "pre_img": "0000097308_07570.jpg",
+                  "pre_imgs": "0000097308_98410.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000007,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 97308,
+                  "dealer_id": 10114,
+                  "number": 61,
+                  "price": 138,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/009\/7308\/0000097308_07570.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 106766,
+                  "name": "[次日达]大洋世家鲜虾仁 1kg",
+                  "long_name": "[次日达]大洋世家鲜虾仁 1kg",
+                  "store_nums": 200,
+                  "specifics": "1kg",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 161,
+                  "brand_name": "大洋世家",
+                  "hot_degree": 0,
+                  "safe_day": 365,
+                  "safe_unit": 1,
+                  "market_price": 129,
+                  "pcid": 55,
+                  "partner_price": 99,
+                  "ismix": 0,
+                  "pre_img": "20160422094227_028403.jpg",
+                  "pre_imgs": "20160422094231_099784.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000008,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 106766,
+                  "dealer_id": 10114,
+                  "number": 319,
+                  "price": 99,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/2209\/20160422094227_028403.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 97226,
+                  "name": "[次日达]加拿大北极虾 200g200.0g\/袋",
+                  "long_name": "[次日达]加拿大北极虾 200g200.0g\/袋",
+                  "store_nums": 200,
+                  "specifics": "200g",
+                  "attribute": "",
+                  "sort": "3",
+                  "top_sort": 9999,
+                  "brand_id": 1774,
+                  "brand_name": "禧美",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 26.8,
+                  "pcid": 55,
+                  "partner_price": 19.9,
+                  "ismix": 0,
+                  "pre_img": "0000097226_44060.jpg",
+                  "pre_imgs": "0000097226_42730.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000015,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 97226,
+                  "dealer_id": 10114,
+                  "number": 96,
+                  "price": 19.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/009\/7226\/0000097226_44060.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113293,
+                  "name": "[次日达]冷冻巴沙鱼片1000g\/袋",
+                  "long_name": "[次日达]冷冻巴沙鱼片1000g\/袋",
+                  "store_nums": 200,
+                  "specifics": "1000g\/袋",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 2626,
+                  "brand_name": "问鼎食神",
+                  "hot_degree": 0,
+                  "safe_day": 2,
+                  "safe_unit": 3,
+                  "market_price": 38,
+                  "pcid": 55,
+                  "partner_price": 28,
+                  "ismix": 0,
+                  "pre_img": "20160825190709_465296.jpg",
+                  "pre_imgs": "20160825190714_984765.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]冷冻巴沙鱼片",
+                  "product_num": 100000007,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113293,
+                  "dealer_id": 10114,
+                  "number": 167,
+                  "price": 28,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/2519\/20160825190709_465296.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "2"
+          },
+          {
+            "more_activity": {
+              "id": "20526",
+              "name": "新鲜预订--肉禽蛋",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092215125856.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092215125856.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridarouqindangengduo",
+                "trackid": "brand1|20526"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20526"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 113240,
+              "name": "[次日达]绿鸟鸡小胸500g\/袋",
+              "long_name": "[次日达]绿鸟鸡小胸500g\/袋",
+              "store_nums": 200,
+              "specifics": "500g\/袋",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 2625,
+              "brand_name": "草原兴发",
+              "hot_degree": 0,
+              "safe_day": 12,
+              "safe_unit": 2,
+              "market_price": 18,
+              "pcid": 55,
+              "partner_price": 15.8,
+              "ismix": 0,
+              "pre_img": "20160819174450_875951.jpg",
+              "pre_imgs": "20160819174448_890800.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "[次日达]草原兴发绿鸟鸡小胸",
+              "product_num": 100000027,
+              "org_source_value": 4,
+              "safe_unit_desc": "月",
+              "c_layer": 2,
+              "p_cids": {
+                "103567": {
+                  "103565": "肉蛋时蔬"
+                }
+              },
+              "cids": {
+                "103567": "肉蛋水产"
+              },
+              "category_id": 103565,
+              "cid": 103565,
+              "child_cid": 103567,
+              "product_id": 113240,
+              "dealer_id": 10114,
+              "number": 67,
+              "price": 15.8,
+              "had_pm": 1,
+              "pm_desc": "满减",
+              "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+              "is_xf": 1,
+              "pm_tags": [
+                "满减"
+              ],
+              "promotion": "pm_limit%3D%7B%7D",
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1917\/20160819174450_875951.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_113240_1474528378.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "肉禽蛋品",
+              "category_color": "E80013",
+              "target_type": "3",
+              "banner_activity_id": "21640",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 103960,
+                  "name": "[次日达]德青源爱的鲜鸡蛋16枚装838g\/盒",
+                  "long_name": "[次日达]德青源爱的鲜鸡蛋16枚装838g\/盒",
+                  "store_nums": 200,
+                  "specifics": "838g",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 1549,
+                  "brand_name": "德青源",
+                  "hot_degree": 0,
+                  "safe_day": 45,
+                  "safe_unit": 1,
+                  "market_price": 21.9,
+                  "pcid": 55,
+                  "partner_price": 19.9,
+                  "ismix": 0,
+                  "pre_img": "20160426202227_524498.jpg",
+                  "pre_imgs": "20160426202231_556716.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000014,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 103960,
+                  "dealer_id": 10114,
+                  "number": 18,
+                  "price": 19.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/2620\/20160426202227_524498.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 112812,
+                  "name": "[次日达]伊赛清真牛腩块 400g",
+                  "long_name": "[次日达]伊赛清真牛腩块 400g",
+                  "store_nums": 200,
+                  "specifics": "400g",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 2408,
+                  "brand_name": "伊赛",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 29,
+                  "pcid": 55,
+                  "partner_price": 24.8,
+                  "ismix": 0,
+                  "pre_img": "20160808181505_529331.jpg",
+                  "pre_imgs": "20160808181511_217775.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 112812,
+                  "dealer_id": 10114,
+                  "number": 203,
+                  "price": 24.8,
+                  "had_pm": 1,
+                  "pm_desc": "满赠肉饼",
+                  "pm_info": "买即赠牛肉饼一份，赠完为止。赠品将在结算页面显示，如未显示表示已赠完。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满赠肉饼"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0818\/20160808181505_529331.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113237,
+                  "name": "[次日达]绿鸟鸡翅中500g\/袋",
+                  "long_name": "[次日达]绿鸟鸡翅中500g\/袋",
+                  "store_nums": 200,
+                  "specifics": "500g\/袋",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 2625,
+                  "brand_name": "草原兴发",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 39,
+                  "pcid": 55,
+                  "partner_price": 39.9,
+                  "ismix": 0,
+                  "pre_img": "20160819163350_352586.jpg",
+                  "pre_imgs": "20160819163348_997667.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]草原兴发绿鸟翅中",
+                  "product_num": 100000016,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113237,
+                  "dealer_id": 10114,
+                  "number": 183,
+                  "price": 39.9,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1916\/20160819163350_352586.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113735,
+                  "name": "[次日达]荷美尔香煎培根600g\/袋",
+                  "long_name": "[次日达]荷美尔香煎培根600g\/袋",
+                  "store_nums": 200,
+                  "specifics": "600g\/袋",
+                  "attribute": "",
+                  "sort": "6",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 60,
+                  "pcid": 55,
+                  "partner_price": 60,
+                  "ismix": 0,
+                  "pre_img": "20160902173303_905763.jpg",
+                  "pre_imgs": "20160902173306_500048.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000004,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113735,
+                  "dealer_id": 10114,
+                  "number": 42,
+                  "price": 60,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173303_905763.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113238,
+                  "name": "[次日达]绿鸟鸡翅根500g\/袋",
+                  "long_name": "[次日达]绿鸟鸡翅根500g\/袋",
+                  "store_nums": 200,
+                  "specifics": "500g\/袋",
+                  "attribute": "",
+                  "sort": "9",
+                  "top_sort": 9999,
+                  "brand_id": 2625,
+                  "brand_name": "草原兴发",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 21,
+                  "pcid": 55,
+                  "partner_price": 21,
+                  "ismix": 0,
+                  "pre_img": "20160819161506_596914.jpg",
+                  "pre_imgs": "20160819161503_856860.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]草原兴发绿鸟翅根",
+                  "product_num": 100000011,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113238,
+                  "dealer_id": 10114,
+                  "number": 32,
+                  "price": 21,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1916\/20160819161506_596914.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113236,
+                  "name": "[次日达]绿鸟鸡便捷红烧鸡块500g\/袋",
+                  "long_name": "[次日达]绿鸟鸡便捷红烧鸡块500g\/袋",
+                  "store_nums": 200,
+                  "specifics": "500g\/袋",
+                  "attribute": "",
+                  "sort": "9",
+                  "top_sort": 9999,
+                  "brand_id": 2625,
+                  "brand_name": "草原兴发",
+                  "hot_degree": 0,
+                  "safe_day": 10,
+                  "safe_unit": 2,
+                  "market_price": 36,
+                  "pcid": 55,
+                  "partner_price": 36,
+                  "ismix": 0,
+                  "pre_img": "20160819161319_929254.jpg",
+                  "pre_imgs": "20160819161317_929823.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]草原兴发绿鸟便捷红烧鸡块",
+                  "product_num": 100000032,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113236,
+                  "dealer_id": 10114,
+                  "number": 61,
+                  "price": 36,
+                  "had_pm": 1,
+                  "pm_desc": "买一赠一",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "买一赠一",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1916\/20160819161319_929254.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "3"
+          },
+          {
+            "more_activity": {
+              "id": "20527",
+              "name": "新鲜预订--乳品烘焙",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016083117390166.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016083117390166.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridanaizhipingengduo",
+                "trackid": "brand1|20527"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20527"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 99572,
+              "name": "[次日达]伊利安慕希希腊风味酸奶(箱)205ml*12",
+              "long_name": "[次日达]伊利安慕希希腊风味酸奶(箱)205ml*12",
+              "store_nums": 200,
+              "specifics": "205g*12",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 25,
+              "brand_name": "伊利",
+              "hot_degree": 0,
+              "safe_day": 180,
+              "safe_unit": 1,
+              "market_price": 58,
+              "pcid": 55,
+              "partner_price": 58,
+              "ismix": 0,
+              "pre_img": "20160114110732_538131.jpg",
+              "pre_imgs": "20160114110740_173997.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "",
+              "product_num": 100000009,
+              "org_source_value": 4,
+              "safe_unit_desc": "天",
+              "c_layer": 2,
+              "p_cids": {
+                "103537": {
+                  "103536": "牛奶面包"
+                }
+              },
+              "cids": {
+                "103537": "酸奶乳酸菌"
+              },
+              "category_id": 103536,
+              "cid": 103536,
+              "child_cid": 103537,
+              "product_id": 99572,
+              "dealer_id": 10114,
+              "number": 184,
+              "price": 58,
+              "had_pm": 0,
+              "pm_desc": "",
+              "pm_info": "",
+              "is_xf": 1,
+              "pm_tags": [
+                
+              ],
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/1411\/20160114110732_538131.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_99572_1472636341.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "乳品烘焙",
+              "category_color": "FF3CDF",
+              "target_type": "3",
+              "banner_activity_id": "21415",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 99773,
+                  "name": "[次日达]蒙牛纯甄酸牛奶整箱200ml*12",
+                  "long_name": "[次日达]蒙牛纯甄酸牛奶整箱200ml*12",
+                  "store_nums": 200,
+                  "specifics": "200ml*12",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 23,
+                  "brand_name": "蒙牛",
+                  "hot_degree": 0,
+                  "safe_day": 150,
+                  "safe_unit": 1,
+                  "market_price": 58,
+                  "pcid": 55,
+                  "partner_price": 58,
+                  "ismix": 0,
+                  "pre_img": "20160117170825_896745.jpg",
+                  "pre_imgs": "20160117170818_930340.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "酸奶",
+                  "product_num": 100000010,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103537": {
+                      "103536": "牛奶面包"
+                    }
+                  },
+                  "cids": {
+                    "103537": "酸奶乳酸菌"
+                  },
+                  "category_id": 103536,
+                  "cid": 103536,
+                  "child_cid": 103537,
+                  "product_id": 99773,
+                  "dealer_id": 10114,
+                  "number": 124,
+                  "price": 58,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/1717\/20160117170825_896745.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114318,
+                  "name": "[次日达]味全每日C苹果汁2瓶装",
+                  "long_name": "[次日达]味全每日C苹果汁2瓶装",
+                  "store_nums": 200,
+                  "specifics": "300ml*2",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 0,
+                  "brand_name": "",
+                  "hot_degree": 0,
+                  "safe_day": "",
+                  "safe_unit": 1,
+                  "market_price": 19.9,
+                  "pcid": 55,
+                  "partner_price": 19.9,
+                  "ismix": 1,
+                  "pre_img": "20160907105904_826785.jpg",
+                  "pre_imgs": "20160907105952_988942.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103551": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103551": "果汁饮料"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103551,
+                  "product_id": 114318,
+                  "dealer_id": 10114,
+                  "number": 19,
+                  "price": 19.9,
+                  "had_pm": 1,
+                  "pm_desc": "买二赠二",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "买二赠二"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0710\/20160907105904_826785.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 96673,
+                  "name": "[次日达]延世牧场牛奶 1L",
+                  "long_name": "[次日达]延世牧场牛奶 1L",
+                  "store_nums": 200,
+                  "specifics": "1L",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 334,
+                  "brand_name": "延世",
+                  "hot_degree": 0,
+                  "safe_day": 15,
+                  "safe_unit": 1,
+                  "market_price": 33,
+                  "pcid": 55,
+                  "partner_price": 33,
+                  "ismix": 0,
+                  "pre_img": "20151231172427_493418.jpg",
+                  "pre_imgs": "20151231172431_838457.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000012,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103538": {
+                      "103536": "牛奶面包"
+                    }
+                  },
+                  "cids": {
+                    "103538": "牛奶豆浆"
+                  },
+                  "category_id": 103536,
+                  "cid": 103536,
+                  "child_cid": 103538,
+                  "product_id": 96673,
+                  "dealer_id": 10114,
+                  "number": 2,
+                  "price": 33,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/512\/3117\/20151231172427_493418.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 107421,
+                  "name": "[次日达]和润低脂无蔗糖酸牛奶910g",
+                  "long_name": "[次日达]和润低脂无蔗糖酸牛奶910g",
+                  "store_nums": 200,
+                  "specifics": "910g",
+                  "attribute": "",
+                  "sort": "3",
+                  "top_sort": 9999,
+                  "brand_id": 2334,
+                  "brand_name": "和润",
+                  "hot_degree": 0,
+                  "safe_day": 21,
+                  "safe_unit": 1,
+                  "market_price": 18.8,
+                  "pcid": 55,
+                  "partner_price": 17.6,
+                  "ismix": 0,
+                  "pre_img": "20160511105825_067396.jpg",
+                  "pre_imgs": "20160511105832_724040.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000005,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103537": {
+                      "103536": "牛奶面包"
+                    }
+                  },
+                  "cids": {
+                    "103537": "酸奶乳酸菌"
+                  },
+                  "category_id": 103536,
+                  "cid": 103536,
+                  "child_cid": 103537,
+                  "product_id": 107421,
+                  "dealer_id": 10114,
+                  "number": 31,
+                  "price": 17.6,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/605\/1110\/20160511105825_067396.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 101413,
+                  "name": "[次日达]雪原蒙古熟酸奶1kg",
+                  "long_name": "[次日达]雪原蒙古熟酸奶1kg",
+                  "store_nums": 200,
+                  "specifics": "1kg",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 1958,
+                  "brand_name": "雪原",
+                  "hot_degree": 0,
+                  "safe_day": 21,
+                  "safe_unit": 1,
+                  "market_price": 24.8,
+                  "pcid": 55,
+                  "partner_price": 19.9,
+                  "ismix": 0,
+                  "pre_img": "20160912102311_911078.jpg",
+                  "pre_imgs": "20160912102320_660818.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000053,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103537": {
+                      "103536": "牛奶面包"
+                    }
+                  },
+                  "cids": {
+                    "103537": "酸奶乳酸菌"
+                  },
+                  "category_id": 103536,
+                  "cid": 103536,
+                  "child_cid": 103537,
+                  "product_id": 101413,
+                  "dealer_id": 10114,
+                  "number": 1,
+                  "price": 19.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/1210\/20160912102311_911078.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 65170,
+                  "name": "[次日达]君乐宝开啡尔巴氏杀菌酸牛奶整箱200g*12",
+                  "long_name": "[次日达]君乐宝开啡尔巴氏杀菌酸牛奶整箱200g*12",
+                  "store_nums": 200,
+                  "specifics": "200g*12盒",
+                  "attribute": "",
+                  "sort": "5",
+                  "top_sort": 9999,
+                  "brand_id": 949,
+                  "brand_name": "君乐宝",
+                  "hot_degree": 0,
+                  "safe_day": 150,
+                  "safe_unit": 1,
+                  "market_price": 48,
+                  "pcid": 55,
+                  "partner_price": 46,
+                  "ismix": 0,
+                  "pre_img": "0000065170_62380.jpg",
+                  "pre_imgs": "0000065170_83940.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "次日达,君乐宝,开啡尔,巴氏杀菌,酸牛奶,整箱,酸奶,老酸奶,箱,中秋礼包",
+                  "product_num": 100000006,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103537": {
+                      "103536": "牛奶面包"
+                    }
+                  },
+                  "cids": {
+                    "103537": "酸奶乳酸菌"
+                  },
+                  "category_id": 103536,
+                  "cid": 103536,
+                  "child_cid": 103537,
+                  "product_id": 65170,
+                  "dealer_id": 10114,
+                  "number": 62,
+                  "price": 46,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/006\/5170\/0000065170_62380.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "4"
+          },
+          {
+            "more_activity": {
+              "id": "20531",
+              "name": "新鲜预订--休闲零食",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/201609141626309.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/201609141626309.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridaxiuxianlingshigengduo",
+                "trackid": "brand1|20531"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20531"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 113654,
+              "name": "[次日达]倍阳纳趣蜂蜜黄油腰果85g",
+              "long_name": "[次日达]倍阳纳趣蜂蜜黄油腰果85g",
+              "store_nums": 200,
+              "specifics": "85g",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 2641,
+              "brand_name": "倍阳纳",
+              "hot_degree": 0,
+              "safe_day": 18,
+              "safe_unit": 2,
+              "market_price": 32.8,
+              "pcid": 55,
+              "partner_price": 32.8,
+              "ismix": 0,
+              "pre_img": "20160831162922_794816.jpg",
+              "pre_imgs": "20160831162920_264160.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "",
+              "product_num": 100000001,
+              "org_source_value": 4,
+              "safe_unit_desc": "月",
+              "c_layer": 2,
+              "p_cids": {
+                "103547": {
+                  "103541": "休闲零食"
+                }
+              },
+              "cids": {
+                "103547": "进口零食"
+              },
+              "category_id": 103541,
+              "cid": 103541,
+              "child_cid": 103547,
+              "product_id": 113654,
+              "dealer_id": 10114,
+              "number": 40,
+              "price": 32.8,
+              "had_pm": 1,
+              "pm_desc": "满减",
+              "pm_info": "满60元立减15元，可累计。",
+              "is_xf": 1,
+              "pm_tags": [
+                "满减"
+              ],
+              "promotion": "pm_limit%3D%7B%7D",
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/3116\/20160831162922_794816.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_113654_1473841590.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "休闲零食",
+              "category_color": "2E6CE8",
+              "target_type": "3",
+              "banner_activity_id": "21507",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 113630,
+                  "name": "[次日达]啪啪通原味木薯脆片50g",
+                  "long_name": "[次日达]啪啪通原味木薯脆片50g",
+                  "store_nums": 200,
+                  "specifics": "50g",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 1192,
+                  "brand_name": "啪啪通",
+                  "hot_degree": 0,
+                  "safe_day": 15,
+                  "safe_unit": 2,
+                  "market_price": 18.9,
+                  "pcid": 55,
+                  "partner_price": 18.9,
+                  "ismix": 0,
+                  "pre_img": "20160831161927_417440.jpg",
+                  "pre_imgs": "20160831161925_846020.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]啪啪通原味木薯脆片",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103547": {
+                      "103541": "休闲零食"
+                    }
+                  },
+                  "cids": {
+                    "103547": "进口零食"
+                  },
+                  "category_id": 103541,
+                  "cid": 103541,
+                  "child_cid": 103547,
+                  "product_id": 113630,
+                  "dealer_id": 10114,
+                  "number": 52,
+                  "price": 18.9,
+                  "had_pm": 1,
+                  "pm_desc": "买一赠一",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "买一赠一",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/3116\/20160831161927_417440.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 105095,
+                  "name": "[次日达]科尔沁牛肉粒（狂野之恋）108g\/盒",
+                  "long_name": "[次日达]科尔沁牛肉粒（狂野之恋）108g\/盒",
+                  "store_nums": 200,
+                  "specifics": "108g\/盒",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 2229,
+                  "brand_name": "科尔沁",
+                  "hot_degree": 0,
+                  "safe_day": 270,
+                  "safe_unit": 1,
+                  "market_price": 38.9,
+                  "pcid": 55,
+                  "partner_price": 38.8,
+                  "ismix": 0,
+                  "pre_img": "20160419184327_223592.jpg",
+                  "pre_imgs": "20160419184336_363649.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000001,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103546": {
+                      "103541": "休闲零食"
+                    }
+                  },
+                  "cids": {
+                    "103546": "肉干蜜饯"
+                  },
+                  "category_id": 103541,
+                  "cid": 103541,
+                  "child_cid": 103546,
+                  "product_id": 105095,
+                  "dealer_id": 10114,
+                  "number": 9,
+                  "price": 38.8,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "满60元立减15元，可累计。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/1918\/20160419184327_223592.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 105065,
+                  "name": "[次日达]莱家威化饼（提拉米苏味）110g",
+                  "long_name": "[次日达]莱家威化饼（提拉米苏味）110g",
+                  "store_nums": 200,
+                  "specifics": "110g\/袋",
+                  "attribute": "",
+                  "sort": "8",
+                  "top_sort": 9999,
+                  "brand_id": 360,
+                  "brand_name": "莱家",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 18.6,
+                  "pcid": 55,
+                  "partner_price": 16.8,
+                  "ismix": 0,
+                  "pre_img": "20160412143434_680667.jpg",
+                  "pre_imgs": "20160412143440_334321.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000004,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103544": {
+                      "103541": "休闲零食"
+                    }
+                  },
+                  "cids": {
+                    "103544": "饼干糕点"
+                  },
+                  "category_id": 103541,
+                  "cid": 103541,
+                  "child_cid": 103544,
+                  "product_id": 105065,
+                  "dealer_id": 10114,
+                  "number": 139,
+                  "price": 16.8,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "满60元立减15元，可累计。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/1214\/20160412143434_680667.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 112771,
+                  "name": "[次日达]奥嘉莱印尼甜辣味蟹片30g",
+                  "long_name": "[次日达]奥嘉莱印尼甜辣味蟹片30g",
+                  "store_nums": 200,
+                  "specifics": "30g",
+                  "attribute": "",
+                  "sort": "11",
+                  "top_sort": 9999,
+                  "brand_id": 2616,
+                  "brand_name": "奥嘉莱",
+                  "hot_degree": 0,
+                  "safe_day": 365,
+                  "safe_unit": 1,
+                  "market_price": 16.8,
+                  "pcid": 55,
+                  "partner_price": 16.8,
+                  "ismix": 0,
+                  "pre_img": "20160803173709_057868.jpg",
+                  "pre_imgs": "20160803173715_623662.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000008,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103543": {
+                      "103541": "休闲零食"
+                    }
+                  },
+                  "cids": {
+                    "103543": "膨化食品"
+                  },
+                  "category_id": 103541,
+                  "cid": 103541,
+                  "child_cid": 103543,
+                  "product_id": 112771,
+                  "dealer_id": 10114,
+                  "number": 1,
+                  "price": 16.8,
+                  "had_pm": 1,
+                  "pm_desc": "买一赠一",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "买一赠一",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0317\/20160803173709_057868.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113634,
+                  "name": "[次日达]唯嗒墨西哥风味薯片120g",
+                  "long_name": "[次日达]唯嗒墨西哥风味薯片120g",
+                  "store_nums": 200,
+                  "specifics": "120g",
+                  "attribute": "",
+                  "sort": "12",
+                  "top_sort": 9999,
+                  "brand_id": 2640,
+                  "brand_name": "唯嗒",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 22.8,
+                  "pcid": 55,
+                  "partner_price": 22.8,
+                  "ismix": 0,
+                  "pre_img": "20160831162515_380593.jpg",
+                  "pre_imgs": "20160831162514_733807.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]唯嗒墨西哥风味薯片",
+                  "product_num": 100000001,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103547": {
+                      "103541": "休闲零食"
+                    }
+                  },
+                  "cids": {
+                    "103547": "进口零食"
+                  },
+                  "category_id": 103541,
+                  "cid": 103541,
+                  "child_cid": 103547,
+                  "product_id": 113634,
+                  "dealer_id": 10114,
+                  "number": 26,
+                  "price": 22.8,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "满60元立减15元，可累计。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/3116\/20160831162515_380593.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 106105,
+                  "name": "[次日达]果然之家六星红枣夹核桃",
+                  "long_name": "[次日达]果然之家六星红枣夹核桃",
+                  "store_nums": 200,
+                  "specifics": "240g",
+                  "attribute": "",
+                  "sort": "13",
+                  "top_sort": 9999,
+                  "brand_id": 1739,
+                  "brand_name": "果然之家",
+                  "hot_degree": 0,
+                  "safe_day": 1,
+                  "safe_unit": 3,
+                  "market_price": 26.8,
+                  "pcid": 55,
+                  "partner_price": 26.8,
+                  "ismix": 0,
+                  "pre_img": "20160414172248_420004.jpg",
+                  "pre_imgs": "20160414172256_048755.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000007,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103542": {
+                      "103541": "休闲零食"
+                    }
+                  },
+                  "cids": {
+                    "103542": "坚果炒货"
+                  },
+                  "category_id": 103541,
+                  "cid": 103541,
+                  "child_cid": 103542,
+                  "product_id": 106105,
+                  "dealer_id": 10114,
+                  "number": 25,
+                  "price": 26.8,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "满60元立减15元，可累计。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/1417\/20160414172248_420004.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "5"
+          },
+          {
+            "more_activity": {
+              "id": "20524",
+              "name": "新鲜预订--直供蔬菜",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081016472964.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081016472964.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridazhigongshucaigengduo",
+                "trackid": "brand1|20524"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20524"
+            },
+            "target_type": "3",
+            "banner_unio": "1",
+            "activity": {
+              "id": "21511",
+              "name": "新鲜预订-放价蔬菜专场",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081016472964.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081016472964.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "2",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyudingzhoumofangjiashucaizhuanchang",
+                "trackid": "brand1|21511"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|21511"
+            },
+            "category_detail": {
+              "name": "直供蔬菜",
+              "category_color": "E80013",
+              "target_type": "3",
+              "banner_activity_id": "21511",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 15483,
+                  "name": "[次日达]山东精选散花菜450.0-550 g\/盒",
+                  "long_name": "[次日达]山东精选散花菜450.0-550 g\/盒",
+                  "store_nums": 200,
+                  "specifics": "450-550g",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 4.9,
+                  "pcid": 55,
+                  "partner_price": 5.9,
+                  "ismix": 0,
+                  "pre_img": "20160416112533_888120.jpg",
+                  "pre_imgs": "20160416112538_741141.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "鸡蛋蔬菜,精品,次日达,美地,农场,美地农场,散花菜,青菜,果蔬,蔬菜,鲜食",
+                  "product_num": 100000016,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103566": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103566": "蔬菜"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103566,
+                  "product_id": 15483,
+                  "dealer_id": 10114,
+                  "number": 9,
+                  "price": 5.9,
+                  "had_pm": 1,
+                  "pm_desc": "满赠大蒜",
+                  "pm_info": "满15元赠大蒜2头，赠完即止。赠品将在结算页面显示，如未显示表示已赠完。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满赠大蒜",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/1611\/20160416112533_888120.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 15873,
+                  "name": "[次日达]河北精选绿芦笋300.0g\/盒",
+                  "long_name": "[次日达]河北精选绿芦笋300.0g\/盒",
+                  "store_nums": 200,
+                  "specifics": "300g",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 14.9,
+                  "pcid": 55,
+                  "partner_price": 9.9,
+                  "ismix": 0,
+                  "pre_img": "0000015873_70360.jpg",
+                  "pre_imgs": "0000015873_25540.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "次日达,美地,农场,美地农场,芦笋,青菜,蔬菜,鲜食,精选蔬菜",
+                  "product_num": 100000009,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103566": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103566": "蔬菜"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103566,
+                  "product_id": 15873,
+                  "dealer_id": 10114,
+                  "number": 1,
+                  "price": 9.9,
+                  "had_pm": 1,
+                  "pm_desc": "满赠大蒜",
+                  "pm_info": "满15元赠大蒜2头，赠完即止。赠品将在结算页面显示，如未显示表示已赠完。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满赠大蒜",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/001\/5873\/0000015873_70360.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 110594,
+                  "name": "[次日达]农场直供芥蓝250g",
+                  "long_name": "[次日达]农场直供芥蓝250g",
+                  "store_nums": 200,
+                  "specifics": "250g",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 8,
+                  "safe_unit": 1,
+                  "market_price": 5.9,
+                  "pcid": 55,
+                  "partner_price": 5.9,
+                  "ismix": 0,
+                  "pre_img": "20160623182454_767908.jpg",
+                  "pre_imgs": "20160623182500_386440.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "芥蓝，蔬菜，菜",
+                  "product_num": 100000006,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103566": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103566": "蔬菜"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103566,
+                  "product_id": 110594,
+                  "dealer_id": 10114,
+                  "number": 4,
+                  "price": 5.9,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/606\/2318\/20160623182454_767908.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 15476,
+                  "name": "[次日达]优选西红柿",
+                  "long_name": "[次日达]优选西红柿",
+                  "store_nums": 200,
+                  "specifics": "500g",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 0,
+                  "safe_unit": 1,
+                  "market_price": 9.5,
+                  "pcid": 55,
+                  "partner_price": 8.8,
+                  "ismix": 0,
+                  "pre_img": "0000015476_79790.jpg",
+                  "pre_imgs": "0000015476_91220.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "鸡蛋蔬菜,精选,精品,次日达,精选蔬菜,蔬菜,青菜,美地,农场,美地农场,西红柿,青菜,蔬菜,鲜食",
+                  "product_num": 100000028,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103566": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103566": "蔬菜"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103566,
+                  "product_id": 15476,
+                  "dealer_id": 10114,
+                  "number": 40,
+                  "price": 8.8,
+                  "had_pm": 1,
+                  "pm_desc": "满赠大蒜",
+                  "pm_info": "满15元赠大蒜2头，赠完即止。赠品将在结算页面显示，如未显示表示已赠完。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满赠大蒜",
+                    "买一赠一",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/001\/5476\/0000015476_79790.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 109560,
+                  "name": "[次日达]云南高原娃娃菜500g",
+                  "long_name": "[次日达]云南高原娃娃菜500g",
+                  "store_nums": 200,
+                  "specifics": "500g",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 8,
+                  "safe_unit": 1,
+                  "market_price": 8.9,
+                  "pcid": 55,
+                  "partner_price": 5.9,
+                  "ismix": 0,
+                  "pre_img": "20160531134602_416488.jpg",
+                  "pre_imgs": "20160531134606_953136.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000008,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103566": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103566": "蔬菜"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103566,
+                  "product_id": 109560,
+                  "dealer_id": 10114,
+                  "number": 15,
+                  "price": 5.9,
+                  "had_pm": 1,
+                  "pm_desc": "满赠大蒜",
+                  "pm_info": "满15元赠大蒜2头，赠完即止。赠品将在结算页面显示，如未显示表示已赠完。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满赠大蒜",
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/605\/3113\/20160531134602_416488.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 110583,
+                  "name": "[次日达]农场直供水果黄瓜400g",
+                  "long_name": "[次日达]农场直供水果黄瓜400g",
+                  "store_nums": 200,
+                  "specifics": "400g",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 128,
+                  "brand_name": "爱鲜蜂",
+                  "hot_degree": 0,
+                  "safe_day": 8,
+                  "safe_unit": 1,
+                  "market_price": 13.9,
+                  "pcid": 55,
+                  "partner_price": 12.9,
+                  "ismix": 0,
+                  "pre_img": "20160623173515_789986.jpg",
+                  "pre_imgs": "20160623173524_535621.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "黄瓜，水果，水果黄瓜，荷兰黄瓜，瓜",
+                  "product_num": 100000010,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103566": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103566": "蔬菜"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103566,
+                  "product_id": 110583,
+                  "dealer_id": 10114,
+                  "number": 15,
+                  "price": 12.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/606\/2317\/20160623173515_789986.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "1"
+            },
+            "sort": "6"
+          },
+          {
+            "more_activity": {
+              "id": "20530",
+              "name": "新鲜预订--酒水饮料",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081516483626.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016081516483626.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridajiushuiyinliaogengduo",
+                "trackid": "brand1|20530"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20530"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 110100,
+              "name": "[次日达]冰纯嘉士伯啤酒整箱（大听）500ml*12",
+              "long_name": "[次日达]冰纯嘉士伯啤酒整箱（大听）500ml*12",
+              "store_nums": 200,
+              "specifics": "500ml*12",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 233,
+              "brand_name": "嘉士伯",
+              "hot_degree": 0,
+              "safe_day": 365,
+              "safe_unit": 1,
+              "market_price": 108,
+              "pcid": 55,
+              "partner_price": 96,
+              "ismix": 0,
+              "pre_img": "20160615185759_406304.jpg",
+              "pre_imgs": "20160615185805_748378.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "",
+              "product_num": 100000000,
+              "org_source_value": 4,
+              "safe_unit_desc": "天",
+              "c_layer": 2,
+              "p_cids": {
+                "103555": {
+                  "103549": "饮料酒水"
+                }
+              },
+              "cids": {
+                "103555": "酒类"
+              },
+              "category_id": 103549,
+              "cid": 103549,
+              "child_cid": 103555,
+              "product_id": 110100,
+              "dealer_id": 10114,
+              "number": 11,
+              "price": 96,
+              "had_pm": 0,
+              "pm_desc": "",
+              "pm_info": "",
+              "is_xf": 1,
+              "pm_tags": [
+                
+              ],
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/606\/1518\/20160615185759_406304.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_110100_1471250916.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "酒水饮料",
+              "category_color": "0EE8BC",
+              "target_type": "3",
+              "banner_activity_id": "",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 112735,
+                  "name": "[次日达]零度果坊番石榴汁300ml",
+                  "long_name": "[次日达]零度果坊番石榴汁300ml",
+                  "store_nums": 200,
+                  "specifics": "300ml",
+                  "attribute": "",
+                  "sort": "0",
+                  "top_sort": 9999,
+                  "brand_id": 2099,
+                  "brand_name": "零度果坊",
+                  "hot_degree": 0,
+                  "safe_day": 28,
+                  "safe_unit": 1,
+                  "market_price": 18.9,
+                  "pcid": 55,
+                  "partner_price": 18.9,
+                  "ismix": 0,
+                  "pre_img": "20160801121904_371807.jpg",
+                  "pre_imgs": "20160801121910_831746.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000018,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103551": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103551": "果汁饮料"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103551,
+                  "product_id": 112735,
+                  "dealer_id": 10114,
+                  "number": 11,
+                  "price": 18.9,
+                  "had_pm": 1,
+                  "pm_desc": "买一赠一",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "买一赠一"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0112\/20160801121904_371807.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 111283,
+                  "name": "[次日达]加多宝金罐凉茶整箱330ml*20",
+                  "long_name": "[次日达]加多宝金罐凉茶整箱330ml*20",
+                  "store_nums": 200,
+                  "specifics": "330ml*20",
+                  "attribute": "",
+                  "sort": "5",
+                  "top_sort": 9999,
+                  "brand_id": 8,
+                  "brand_name": "加多宝",
+                  "hot_degree": 0,
+                  "safe_day": 720,
+                  "safe_unit": 1,
+                  "market_price": 59.9,
+                  "pcid": 55,
+                  "partner_price": 59.9,
+                  "ismix": 0,
+                  "pre_img": "20160706174636_233216.jpg",
+                  "pre_imgs": "20160706174641_071760.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103554": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103554": "茶饮\/咖啡"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103554,
+                  "product_id": 111283,
+                  "dealer_id": 10114,
+                  "number": 11,
+                  "price": 59.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/607\/0617\/20160706174636_233216.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 106270,
+                  "name": "[次日达]红牛维生素功能饮料250ml*24",
+                  "long_name": "[次日达]红牛维生素功能饮料250ml*24",
+                  "store_nums": 200,
+                  "specifics": "250ml*24",
+                  "attribute": "",
+                  "sort": "7",
+                  "top_sort": 9999,
+                  "brand_id": 83,
+                  "brand_name": "红牛",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 139,
+                  "pcid": 55,
+                  "partner_price": 139,
+                  "ismix": 0,
+                  "pre_img": "20160414201149_999652.jpg",
+                  "pre_imgs": "20160414201154_032394.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103553": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103553": "功能饮料"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103553,
+                  "product_id": 106270,
+                  "dealer_id": 10114,
+                  "number": 31,
+                  "price": 139,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/1420\/20160414201149_999652.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 112912,
+                  "name": "[次日达]麦贝儿啤酒味黑麦汁饮料整箱310ml*24",
+                  "long_name": "[次日达]麦贝儿啤酒味黑麦汁饮料整箱310ml*24",
+                  "store_nums": 200,
+                  "specifics": "310ml*24",
+                  "attribute": "",
+                  "sort": "9",
+                  "top_sort": 9999,
+                  "brand_id": 2343,
+                  "brand_name": "麦贝儿",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 120,
+                  "pcid": 55,
+                  "partner_price": 98,
+                  "ismix": 0,
+                  "pre_img": "20160803172415_462259.jpg",
+                  "pre_imgs": "20160803172420_350750.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000001,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103553": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103553": "功能饮料"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103553,
+                  "product_id": 112912,
+                  "dealer_id": 10114,
+                  "number": 32,
+                  "price": 98,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0317\/20160803172415_462259.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 112926,
+                  "name": "[次日达]婴儿肥茉莉花茶拉格啤酒（3听）",
+                  "long_name": "[次日达]婴儿肥茉莉花茶拉格啤酒（3听）",
+                  "store_nums": 200,
+                  "specifics": "500ml*3听",
+                  "attribute": "",
+                  "sort": "10",
+                  "top_sort": 9999,
+                  "brand_id": 0,
+                  "brand_name": "",
+                  "hot_degree": 0,
+                  "safe_day": "",
+                  "safe_unit": 1,
+                  "market_price": 54,
+                  "pcid": 55,
+                  "partner_price": 38,
+                  "ismix": 1,
+                  "pre_img": "20160803170957_437189.jpg",
+                  "pre_imgs": "20160803171002_377797.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103555": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103555": "酒类"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103555,
+                  "product_id": 112926,
+                  "dealer_id": 10114,
+                  "number": 32,
+                  "price": 38,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/0317\/20160803170957_437189.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 105315,
+                  "name": "[次日达]昆仑山雪山矿泉水510ml*24箱",
+                  "long_name": "[次日达]昆仑山雪山矿泉水510ml*24箱",
+                  "store_nums": 200,
+                  "specifics": "510ml*24",
+                  "attribute": "",
+                  "sort": "11",
+                  "top_sort": 9999,
+                  "brand_id": 439,
+                  "brand_name": "昆仑山",
+                  "hot_degree": 0,
+                  "safe_day": 365,
+                  "safe_unit": 1,
+                  "market_price": 98,
+                  "pcid": 55,
+                  "partner_price": 98,
+                  "ismix": 0,
+                  "pre_img": "20160429145243_737339.jpg",
+                  "pre_imgs": "20160429145252_685357.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000006,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103550": {
+                      "103549": "饮料酒水"
+                    }
+                  },
+                  "cids": {
+                    "103550": "饮用水"
+                  },
+                  "category_id": 103549,
+                  "cid": 103549,
+                  "child_cid": 103550,
+                  "product_id": 105315,
+                  "dealer_id": 10114,
+                  "number": 26,
+                  "price": 98,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/2914\/20160429145243_737339.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "7"
+          },
+          {
+            "more_activity": {
+              "id": "20529",
+              "name": "新鲜预订--粮油副食",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016072617055687.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016072617055687.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridaliangyoufushigengduo",
+                "trackid": "brand1|20529"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20529"
+            },
+            "target_type": "3",
+            "banner_unio": "1",
+            "activity": {
+              "id": "21202",
+              "name": "新鲜预订-囤食惠",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016072617055687.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016072617055687.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyudingliangyoumanzeng",
+                "trackid": "brand1|21202"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|21202"
+            },
+            "category_detail": {
+              "name": "粮油副食",
+              "category_color": "9AA910",
+              "target_type": "3",
+              "banner_activity_id": "21202",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 99252,
+                  "name": "[次日达]清谷新禾石磨荞麦粉2.5kg\/袋",
+                  "long_name": "[次日达]清谷新禾石磨荞麦粉2.5kg\/袋",
+                  "store_nums": 200,
+                  "specifics": "2.5kg",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 1846,
+                  "brand_name": "清谷新禾",
+                  "hot_degree": 0,
+                  "safe_day": 1,
+                  "safe_unit": 3,
+                  "market_price": 35,
+                  "pcid": 55,
+                  "partner_price": 25.8,
+                  "ismix": 0,
+                  "pre_img": "20160111202234_568244.jpg",
+                  "pre_imgs": "20160111202242_835795.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103570": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103570": "杂粮米面油"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103570,
+                  "product_id": 99252,
+                  "dealer_id": 10114,
+                  "number": 35,
+                  "price": 25.8,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/1120\/20160111202234_568244.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 96843,
+                  "name": "[次日达]海天老抽王1.9L",
+                  "long_name": "[次日达]海天老抽王1.9L",
+                  "store_nums": 200,
+                  "specifics": "1.9L",
+                  "attribute": "",
+                  "sort": "3",
+                  "top_sort": 9999,
+                  "brand_id": 232,
+                  "brand_name": "海天",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 19.8,
+                  "pcid": 55,
+                  "partner_price": 18.8,
+                  "ismix": 0,
+                  "pre_img": "20160811185915_276069.jpg",
+                  "pre_imgs": "20160811185929_717911.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103571": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103571": "厨房调味"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103571,
+                  "product_id": 96843,
+                  "dealer_id": 10114,
+                  "number": 79,
+                  "price": 18.8,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/608\/1118\/20160811185915_276069.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 99019,
+                  "name": "[次日达]升林牌小香菇100g",
+                  "long_name": "[次日达]升林牌小香菇100g",
+                  "store_nums": 200,
+                  "specifics": "100g",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 1838,
+                  "brand_name": "富昌",
+                  "hot_degree": 0,
+                  "safe_day": 1,
+                  "safe_unit": 3,
+                  "market_price": 19.5,
+                  "pcid": 55,
+                  "partner_price": 19.5,
+                  "ismix": 0,
+                  "pre_img": "20160108183555_213981.jpg",
+                  "pre_imgs": "20160108183601_113084.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000001,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103573": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103573": "南北干货"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103573,
+                  "product_id": 99019,
+                  "dealer_id": 10114,
+                  "number": 53,
+                  "price": 19.5,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/0818\/20160108183555_213981.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 96128,
+                  "name": "[次日达]兴隆沟绿色玉米糁 500g",
+                  "long_name": "[次日达]兴隆沟绿色玉米糁 500g",
+                  "store_nums": 200,
+                  "specifics": "500g",
+                  "attribute": "",
+                  "sort": "5",
+                  "top_sort": 9999,
+                  "brand_id": 1744,
+                  "brand_name": "兴隆沟",
+                  "hot_degree": 0,
+                  "safe_day": 540,
+                  "safe_unit": 1,
+                  "market_price": 9.8,
+                  "pcid": 55,
+                  "partner_price": 9.8,
+                  "ismix": 0,
+                  "pre_img": "0000096128_41350.jpg",
+                  "pre_imgs": "0000096128_64410.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103570": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103570": "杂粮米面油"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103570,
+                  "product_id": 96128,
+                  "dealer_id": 10114,
+                  "number": 22,
+                  "price": 6.8,
+                  "had_pm": 1,
+                  "pm_desc": "限时特价",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "限时特价"
+                  ],
+                  "promotion": "pm_limit%3D%7B%22965%22%3A%7B%22full%22%3A%220%22%2C%22kind_num_per_order%22%3A0%2C%22goods_num_per_kind%22%3A0%2C%22goods_num_per_order%22%3A0%2C%22goods_num_per_day%22%3A0%7D%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/000\/009\/6128\/0000096128_41350.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 104291,
+                  "name": "[次日达]阿宽重庆小面酸辣小面20袋\/箱",
+                  "long_name": "[次日达]阿宽重庆小面酸辣小面20袋\/箱",
+                  "store_nums": 200,
+                  "specifics": "20袋",
+                  "attribute": "",
+                  "sort": "6",
+                  "top_sort": 9999,
+                  "brand_id": 1809,
+                  "brand_name": "阿宽",
+                  "hot_degree": 0,
+                  "safe_day": 300,
+                  "safe_unit": 1,
+                  "market_price": 69,
+                  "pcid": 55,
+                  "partner_price": 69,
+                  "ismix": 0,
+                  "pre_img": "20160415095314_957019.jpg",
+                  "pre_imgs": "20160330112028_345678.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103558": {
+                      "103557": "方便速食"
+                    }
+                  },
+                  "cids": {
+                    "103558": "方便面"
+                  },
+                  "category_id": 103557,
+                  "cid": 103557,
+                  "child_cid": 103558,
+                  "product_id": 104291,
+                  "dealer_id": 10114,
+                  "number": 3,
+                  "price": 69,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/604\/1509\/20160415095314_957019.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 99016,
+                  "name": "[次日达]富昌花椒50g50g\/袋",
+                  "long_name": "[次日达]富昌花椒50g50g\/袋",
+                  "store_nums": 200,
+                  "specifics": "50g",
+                  "attribute": "",
+                  "sort": "7",
+                  "top_sort": 9999,
+                  "brand_id": 1838,
+                  "brand_name": "富昌",
+                  "hot_degree": 0,
+                  "safe_day": 1,
+                  "safe_unit": 3,
+                  "market_price": 16.5,
+                  "pcid": 55,
+                  "partner_price": 16.5,
+                  "ismix": 0,
+                  "pre_img": "20160108182850_428745.jpg",
+                  "pre_imgs": "20160108182853_113883.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103571": {
+                      "103569": "粮油调味"
+                    }
+                  },
+                  "cids": {
+                    "103571": "厨房调味"
+                  },
+                  "category_id": 103569,
+                  "cid": 103569,
+                  "child_cid": 103571,
+                  "product_id": 99016,
+                  "dealer_id": 10114,
+                  "number": 74,
+                  "price": 16.5,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/601\/0818\/20160108182850_428745.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "1"
+            },
+            "sort": "8"
+          },
+          {
+            "more_activity": {
+              "id": "20528",
+              "name": "新鲜预订--熟食面点",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092114215418.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092114215418.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "ciridashushimiandiangengduo",
+                "trackid": "brand1|20528"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|20528"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 113740,
+              "name": "[次日达]眉州东坡麻辣香肠250g\/袋",
+              "long_name": "[次日达]眉州东坡麻辣香肠250g\/袋",
+              "store_nums": 200,
+              "specifics": "250g\/袋",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 989,
+              "brand_name": "荷美尔",
+              "hot_degree": 0,
+              "safe_day": 90,
+              "safe_unit": 1,
+              "market_price": 39.9,
+              "pcid": 55,
+              "partner_price": 39.9,
+              "ismix": 0,
+              "pre_img": "20160902173440_684873.jpg",
+              "pre_imgs": "20160902173444_115608.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "",
+              "product_num": 100000002,
+              "org_source_value": 4,
+              "safe_unit_desc": "天",
+              "c_layer": 2,
+              "p_cids": {
+                "103567": {
+                  "103565": "肉蛋时蔬"
+                }
+              },
+              "cids": {
+                "103567": "肉蛋水产"
+              },
+              "category_id": 103565,
+              "cid": 103565,
+              "child_cid": 103567,
+              "product_id": 113740,
+              "dealer_id": 10114,
+              "number": 14,
+              "price": 39.9,
+              "had_pm": 1,
+              "pm_desc": "满减",
+              "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+              "is_xf": 1,
+              "pm_tags": [
+                "满减"
+              ],
+              "promotion": "pm_limit%3D%7B%7D",
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173440_684873.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_113740_1474438914.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "熟食面点",
+              "category_color": "B40C11",
+              "target_type": "3",
+              "banner_activity_id": "21208",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 113742,
+                  "name": "[次日达]眉州东坡咸鲜香肠250g\/袋",
+                  "long_name": "[次日达]眉州东坡咸鲜香肠250g\/袋",
+                  "store_nums": 200,
+                  "specifics": "250g\/袋",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 90,
+                  "safe_unit": 1,
+                  "market_price": 39.9,
+                  "pcid": 55,
+                  "partner_price": 39.9,
+                  "ismix": 0,
+                  "pre_img": "20160902173505_271867.jpg",
+                  "pre_imgs": "20160902173508_067332.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113742,
+                  "dealer_id": 10114,
+                  "number": 17,
+                  "price": 39.9,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173505_271867.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113746,
+                  "name": "[次日达]荷美尔加州火腿片150g\/袋",
+                  "long_name": "[次日达]荷美尔加州火腿片150g\/袋",
+                  "store_nums": 200,
+                  "specifics": "150g\/袋",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 60,
+                  "safe_unit": 1,
+                  "market_price": 15.6,
+                  "pcid": 55,
+                  "partner_price": 15.6,
+                  "ismix": 0,
+                  "pre_img": "20160902173625_140308.jpg",
+                  "pre_imgs": "20160902173628_170955.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000004,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113746,
+                  "dealer_id": 10114,
+                  "number": 40,
+                  "price": 15.6,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173625_140308.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113740,
+                  "name": "[次日达]眉州东坡麻辣香肠250g\/袋",
+                  "long_name": "[次日达]眉州东坡麻辣香肠250g\/袋",
+                  "store_nums": 200,
+                  "specifics": "250g\/袋",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 90,
+                  "safe_unit": 1,
+                  "market_price": 39.9,
+                  "pcid": 55,
+                  "partner_price": 39.9,
+                  "ismix": 0,
+                  "pre_img": "20160902173440_684873.jpg",
+                  "pre_imgs": "20160902173444_115608.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113740,
+                  "dealer_id": 10114,
+                  "number": 14,
+                  "price": 39.9,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173440_684873.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113738,
+                  "name": "[次日达]荷美尔经典台式香肠250g\/袋",
+                  "long_name": "[次日达]荷美尔经典台式香肠250g\/袋",
+                  "store_nums": 200,
+                  "specifics": "250g\/袋",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 60,
+                  "safe_unit": 1,
+                  "market_price": 19.9,
+                  "pcid": 55,
+                  "partner_price": 19.9,
+                  "ismix": 0,
+                  "pre_img": "20160902173410_873465.jpg",
+                  "pre_imgs": "20160902173413_902045.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000012,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "天",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113738,
+                  "dealer_id": 10114,
+                  "number": 12,
+                  "price": 19.9,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173410_873465.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113735,
+                  "name": "[次日达]荷美尔香煎培根600g\/袋",
+                  "long_name": "[次日达]荷美尔香煎培根600g\/袋",
+                  "store_nums": 200,
+                  "specifics": "600g\/袋",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 12,
+                  "safe_unit": 2,
+                  "market_price": 60,
+                  "pcid": 55,
+                  "partner_price": 60,
+                  "ismix": 0,
+                  "pre_img": "20160902173303_905763.jpg",
+                  "pre_imgs": "20160902173306_500048.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000004,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113735,
+                  "dealer_id": 10114,
+                  "number": 42,
+                  "price": 60,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0217\/20160902173303_905763.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 113737,
+                  "name": "[次日达]荷美尔经典一口香拉丁肠1kg\/袋",
+                  "long_name": "[次日达]荷美尔经典一口香拉丁肠1kg\/袋",
+                  "store_nums": 200,
+                  "specifics": "1kg\/袋",
+                  "attribute": "",
+                  "sort": "",
+                  "top_sort": 9999,
+                  "brand_id": 989,
+                  "brand_name": "荷美尔",
+                  "hot_degree": 0,
+                  "safe_day": 6,
+                  "safe_unit": 2,
+                  "market_price": 79,
+                  "pcid": 55,
+                  "partner_price": 79,
+                  "ismix": 0,
+                  "pre_img": "20160902182119_635313.jpg",
+                  "pre_imgs": "20160902182122_489049.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000002,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "月",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103567": {
+                      "103565": "肉蛋时蔬"
+                    }
+                  },
+                  "cids": {
+                    "103567": "肉蛋水产"
+                  },
+                  "category_id": 103565,
+                  "cid": 103565,
+                  "child_cid": 103567,
+                  "product_id": 113737,
+                  "dealer_id": 10114,
+                  "number": 6,
+                  "price": 79,
+                  "had_pm": 1,
+                  "pm_desc": "满减",
+                  "pm_info": "促销商品（带有促销标签的肉禽及蔬菜），订单满内100元减30元，可叠加。",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    "满减"
+                  ],
+                  "promotion": "pm_limit%3D%7B%7D",
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0218\/20160902182119_635313.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "9"
+          },
+          {
+            "more_activity": {
+              "id": "21744",
+              "name": "新鲜预订--生活用品",
+              "img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092318112717.jpg@90Q.jpg",
+              "topimg": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/2016092318112717.jpg@90Q.jpg",
+              "jptype": "1",
+              "sort": "999",
+              "ext_params": {
+                "cityid": "2",
+                "bigids": "2,0",
+                "activitygroup": "xinxianyudingshenghuoyongpin",
+                "trackid": "brand1|21744"
+              },
+              "show_reload": "1",
+              "hide_cart": "0",
+              "trackid": "brand1|21744"
+            },
+            "target_type": "3",
+            "banner_unio": "2",
+            "goods": {
+              "id": 114182,
+              "name": "[次日达]绿丽安纯棉美人卫生巾14片\/包",
+              "long_name": "[次日达]绿丽安纯棉美人卫生巾14片\/包",
+              "store_nums": 200,
+              "specifics": "14片\/包",
+              "attribute": "",
+              "sort": 10,
+              "top_sort": 9999,
+              "brand_id": 2659,
+              "brand_name": "绿丽安",
+              "hot_degree": 0,
+              "safe_day": 3,
+              "safe_unit": 3,
+              "market_price": 38.9,
+              "pcid": 55,
+              "partner_price": 38.9,
+              "ismix": 0,
+              "pre_img": "20160908104022_016406.jpg",
+              "pre_imgs": "20160908104019_644389.jpg",
+              "cart_group_id": 1,
+              "goods_type": 1,
+              "source_id": 1,
+              "tag_ids": "5",
+              "pre_state": 0,
+              "keywords": "[次日达]绿丽安纯棉美人卫生巾",
+              "product_num": 100000000,
+              "org_source_value": 4,
+              "safe_unit_desc": "年",
+              "c_layer": 2,
+              "p_cids": {
+                "103576": {
+                  "103575": "生活用品"
+                }
+              },
+              "cids": {
+                "103576": "个人护理"
+              },
+              "category_id": 103575,
+              "cid": 103575,
+              "child_cid": 103576,
+              "product_id": 114182,
+              "dealer_id": 10114,
+              "number": 48,
+              "price": 38.9,
+              "had_pm": 0,
+              "pm_desc": "",
+              "pm_info": "",
+              "is_xf": 1,
+              "pm_tags": [
+                
+              ],
+              "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908104022_016406.jpg@200w_200h_90Q"
+            },
+            "banner_img": "http:\/\/img01.bqstatic.com\/\/upload\/activity\/cms_114182_1474625487.jpg@90Q.jpg",
+            "category_detail": {
+              "name": "生活用品",
+              "category_color": "E80013",
+              "target_type": "3",
+              "banner_activity_id": "",
+              "style": "2",
+              "goods": [
+                {
+                  "id": 114185,
+                  "name": "[次日达]绿丽安韩方草药卫生巾14片\/包",
+                  "long_name": "[次日达]绿丽安韩方草药卫生巾14片\/包",
+                  "store_nums": 200,
+                  "specifics": "14片\/包",
+                  "attribute": "",
+                  "sort": "1",
+                  "top_sort": 9999,
+                  "brand_id": 2659,
+                  "brand_name": "绿丽安",
+                  "hot_degree": 0,
+                  "safe_day": 3,
+                  "safe_unit": 3,
+                  "market_price": 42,
+                  "pcid": 55,
+                  "partner_price": 42,
+                  "ismix": 0,
+                  "pre_img": "20160908104123_698654.jpg",
+                  "pre_imgs": "20160908104121_710126.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]绿丽安韩方草药卫生巾",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103576": {
+                      "103575": "生活用品"
+                    }
+                  },
+                  "cids": {
+                    "103576": "个人护理"
+                  },
+                  "category_id": 103575,
+                  "cid": 103575,
+                  "child_cid": 103576,
+                  "product_id": 114185,
+                  "dealer_id": 10114,
+                  "number": 24,
+                  "price": 42,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908104123_698654.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114184,
+                  "name": "[次日达]绿丽安韩方草药卫生巾16片\/包",
+                  "long_name": "[次日达]绿丽安韩方草药卫生巾16片\/包",
+                  "store_nums": 200,
+                  "specifics": "16片\/包",
+                  "attribute": "",
+                  "sort": "2",
+                  "top_sort": 9999,
+                  "brand_id": 2659,
+                  "brand_name": "绿丽安",
+                  "hot_degree": 0,
+                  "safe_day": 3,
+                  "safe_unit": 3,
+                  "market_price": 42,
+                  "pcid": 55,
+                  "partner_price": 42,
+                  "ismix": 0,
+                  "pre_img": "20160908104133_539064.jpg",
+                  "pre_imgs": "20160908104132_144273.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]绿丽安韩方草药卫生巾",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103576": {
+                      "103575": "生活用品"
+                    }
+                  },
+                  "cids": {
+                    "103576": "个人护理"
+                  },
+                  "category_id": 103575,
+                  "cid": 103575,
+                  "child_cid": 103576,
+                  "product_id": 114184,
+                  "dealer_id": 10114,
+                  "number": 24,
+                  "price": 42,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908104133_539064.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114183,
+                  "name": "[次日达]绿丽安纯棉美人护垫20片\/包",
+                  "long_name": "[次日达]绿丽安纯棉美人护垫20片\/包",
+                  "store_nums": 200,
+                  "specifics": "20片\/包",
+                  "attribute": "",
+                  "sort": "3",
+                  "top_sort": 9999,
+                  "brand_id": 2659,
+                  "brand_name": "绿丽安",
+                  "hot_degree": 0,
+                  "safe_day": 3,
+                  "safe_unit": 3,
+                  "market_price": 29,
+                  "pcid": 55,
+                  "partner_price": 29,
+                  "ismix": 0,
+                  "pre_img": "20160908103947_809664.jpg",
+                  "pre_imgs": "20160908103945_506103.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103576": {
+                      "103575": "生活用品"
+                    }
+                  },
+                  "cids": {
+                    "103576": "个人护理"
+                  },
+                  "category_id": 103575,
+                  "cid": 103575,
+                  "child_cid": 103576,
+                  "product_id": 114183,
+                  "dealer_id": 10114,
+                  "number": 40,
+                  "price": 29,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908103947_809664.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114181,
+                  "name": "[次日达]绿丽安纯棉美人卫生巾16片\/包",
+                  "long_name": "[次日达]绿丽安纯棉美人卫生巾16片\/包",
+                  "store_nums": 200,
+                  "specifics": "16片\/包",
+                  "attribute": "",
+                  "sort": "4",
+                  "top_sort": 9999,
+                  "brand_id": 2659,
+                  "brand_name": "绿丽安",
+                  "hot_degree": 0,
+                  "safe_day": 3,
+                  "safe_unit": 3,
+                  "market_price": 38.9,
+                  "pcid": 55,
+                  "partner_price": 38.9,
+                  "ismix": 0,
+                  "pre_img": "20160908104035_363992.jpg",
+                  "pre_imgs": "20160908104033_989449.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]绿丽安纯棉美人卫生巾",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103576": {
+                      "103575": "生活用品"
+                    }
+                  },
+                  "cids": {
+                    "103576": "个人护理"
+                  },
+                  "category_id": 103575,
+                  "cid": 103575,
+                  "child_cid": 103576,
+                  "product_id": 114181,
+                  "dealer_id": 10114,
+                  "number": 48,
+                  "price": 38.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908104035_363992.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114180,
+                  "name": "[次日达]绿丽安超吸收卫生巾14片\/包",
+                  "long_name": "[次日达]绿丽安超吸收卫生巾14片\/包",
+                  "store_nums": 200,
+                  "specifics": "14片\/包",
+                  "attribute": "",
+                  "sort": "5",
+                  "top_sort": 9999,
+                  "brand_id": 2659,
+                  "brand_name": "绿丽安",
+                  "hot_degree": 0,
+                  "safe_day": 3,
+                  "safe_unit": 3,
+                  "market_price": 36.9,
+                  "pcid": 55,
+                  "partner_price": 36.9,
+                  "ismix": 0,
+                  "pre_img": "20160908103832_930188.jpg",
+                  "pre_imgs": "20160908103830_177844.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "[次日达]绿丽安超吸收卫生巾",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103576": {
+                      "103575": "生活用品"
+                    }
+                  },
+                  "cids": {
+                    "103576": "个人护理"
+                  },
+                  "category_id": 103575,
+                  "cid": 103575,
+                  "child_cid": 103576,
+                  "product_id": 114180,
+                  "dealer_id": 10114,
+                  "number": 24,
+                  "price": 36.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908103832_930188.jpg@200w_200h_90Q"
+                },
+                {
+                  "id": 114179,
+                  "name": "[次日达]绿丽安超吸收卫生巾16片\/包",
+                  "long_name": "[次日达]绿丽安超吸收卫生巾16片\/包",
+                  "store_nums": 200,
+                  "specifics": "16片\/包",
+                  "attribute": "",
+                  "sort": "6",
+                  "top_sort": 9999,
+                  "brand_id": 2659,
+                  "brand_name": "绿丽安",
+                  "hot_degree": 0,
+                  "safe_day": 3,
+                  "safe_unit": 3,
+                  "market_price": 36.9,
+                  "pcid": 55,
+                  "partner_price": 36.9,
+                  "ismix": 0,
+                  "pre_img": "20160908103915_865544.jpg",
+                  "pre_imgs": "20160908103913_553403.jpg",
+                  "cart_group_id": 1,
+                  "goods_type": 1,
+                  "source_id": 1,
+                  "tag_ids": "5",
+                  "pre_state": 0,
+                  "keywords": "",
+                  "product_num": 100000000,
+                  "org_source_value": 4,
+                  "safe_unit_desc": "年",
+                  "c_layer": 2,
+                  "p_cids": {
+                    "103576": {
+                      "103575": "生活用品"
+                    }
+                  },
+                  "cids": {
+                    "103576": "个人护理"
+                  },
+                  "category_id": 103575,
+                  "cid": 103575,
+                  "child_cid": 103576,
+                  "product_id": 114179,
+                  "dealer_id": 10114,
+                  "number": 24,
+                  "price": 36.9,
+                  "had_pm": 0,
+                  "pm_desc": "",
+                  "pm_info": "",
+                  "is_xf": 1,
+                  "pm_tags": [
+                    
+                  ],
+                  "img": "http:\/\/img01.bqstatic.com\/upload\/goods\/201\/609\/0810\/20160908103915_865544.jpg@200w_200h_90Q"
+                }
+              ],
+              "banner_unio": "2"
+            },
+            "sort": "10"
+          }
+        ],
+        "sort": 4,
+        "type": "category"
+      }
+    ]
+  }
+}
